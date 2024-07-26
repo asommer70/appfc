@@ -1,6 +1,8 @@
 AUTHOR = 'Adam Sommer'
 SITENAME = 'App FC'
 SITEURL = ""
+# STYLESHEET_URL = '/static/css/site.css'
+THEME = 'themes/appfc/'
 
 PATH = "content"
 
