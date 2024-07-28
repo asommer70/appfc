@@ -2,9 +2,12 @@
 {% block html_lang %}{{ page.lang }}{% endblock %}
 {% block title %}{{ page.title|striptags }}{% endblock %}
 
+before block <br/>
+{% block subtitle %}{{ page.subtitle }}{% endblock %}
+
 {% block content %}
   <section id="content" class="body">
-    <h1 class="entry-title">{{ page.title }} Beep</h1>
+    <h1 class="entry-title">{{ page.title }} TITLE</h1>
     {{ page.content }}
   </section>
 {% endblock %}
