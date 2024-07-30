@@ -1,5 +1,5 @@
 AUTHOR = 'Adam Sommer'
-SITENAME = 'App FC'
+SITENAME = 'Appalachian FC'
 SITEURL = ""
 # STYLESHEET_URL = '/static/css/site.css'
 THEME = 'themes/appfc/'
@@ -32,6 +32,9 @@ SOCIAL = (
 )
 
 DEFAULT_PAGINATION = 10
+
+# PAGE_URL = '{slug}'
+# PAGE_SAVE_AS = '{slug}.html'
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True

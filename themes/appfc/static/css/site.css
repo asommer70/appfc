@@ -14,9 +14,6 @@ h3 {
 }
 
 div.yellow-bar {
-}
-
-div.yellow-bar {
   background-color: #ffe600;
   margin: 0 auto;
   font-family: 'Campione Neue Sans Bold';
@@ -105,6 +102,40 @@ footer.footer {
   height: auto;
 }
 
-a:hover {
-  font-weight: bold;
+
+#players a, h2 a, #articles a, .high {
+  box-shadow: inset 0 0 0 0 black;
+  color: black;
+  padding: 0 .25rem;
+  margin: 0 -.25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+#players a:hover, h2 a:hover, #articles a:hover, .high:hover {
+  color: black;
+  box-shadow: inset 3000px 0 0 0 #ffe600;;
+}
+#players a, h2 a, #articles a, .high {
+  color: #black;
+  line-height: 1.5;
+  text-decoration: underline;
+}
+
+.hero-img {
+  width: 600px;
+  height: auto;
+}
+
+ul {
+  list-style-type: square;
+  margin: 10px 0;
+  padding-left: 3rem;
+}
+
+li {
+  line-height: 1.5;
+  padding-left: 1rem;
+}
+
+p {
+  margin: 1.5rem 0;
 }

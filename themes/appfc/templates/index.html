@@ -1,27 +1,25 @@
 {% extends "base.html" %}
+{% block subtitle %}<h2>News</h2>{% endblock %}
+
 {% block content %}
-    {% block content_title %}
-        <h2>All articles and stuff....</h2>
-    {% endblock %}
 
-    <br/>
-    <p>{{THEME_STATIC_DIR}}</p>
-    <br/>
-
+    <div id="articles" class="grid is-gap-4">
     {% for article in articles_page.object_list %}
-        <article>
+        <article class="cell is-col-span-2">
             <header> <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
-            <section>{{ article.summary }}</section>
+
+            <section>
+              <a href="{{ SITEURL }}/{{ article.url }}"><img src="{{article.hero}}" class="hero-img" /></a>
+              {{ article.summary }}
+            </section>
+
+            <hr/>
             <footer>
-                <p>Published: <time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></p>
-                <address>By
-                    {% for author in article.authors %}
-                        <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
-                    {% endfor %}
-                </address>
+                <p><time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></p>
             </footer>
         </article>
     {% endfor %}
+    </div>
 
     {% if articles_page.has_other_pages() %}
         {% include 'pagination.html' %}

@@ -13,6 +13,4 @@ year: 24
 This will be a list of players.
 
 
-## Woo
-
 
