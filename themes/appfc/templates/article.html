@@ -5,10 +5,12 @@
 {% block subtitle %}<h1>{{article.title}}</h1>{% endblock %}
 
 {% block content %}
+<article>
   <img src="{{article.hero}}" />
  {{ article.content }}
 
  <br/>
  <hr/>
  <a class="high" href="/category/posts">Back</a>
+</article>
 {% endblock %}
