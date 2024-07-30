@@ -73,12 +73,25 @@
         {% endblock %}
     </div>
 
+    <div class="black-bar">
+        {% block coachtitle %}
+        {% endblock %}
+    </div>
+
+    <div class="coaches">
+        {% block coaches %}
+        {% endblock %}
+    </div>
+
+    <div class="yellow-bar">
+        {% block playertitle %}
+        {% endblock %}
+    </div>
+
     <main>
-      <div class="container">
-        <br/>
+      <div class="container main">
         {% block content %}
         {% endblock %}
-        <br/>
       </div>
     </main>
 
