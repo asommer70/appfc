@@ -1,0 +1,155 @@
+@font-face {
+  font-family: "Campione Neue Sans Bold";
+  src: url(/theme/fonts/Campione_Neue_Sans_Bold.ttf) format("truetype");
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+div.yellow-bar {
+  background-color: #ffe600;
+  margin: 0 auto;
+  font-family: 'Campione Neue Sans Bold';
+  font-weight: bold;
+  text-align: center;
+  line-height: 100px;
+  font-size: 38px;
+  color: black;
+}
+
+div.black-bar {
+  background-color: black;
+  margin: 0 auto;
+  font-family: 'Campione Neue Sans Bold';
+  font-weight: bold;
+  text-align: center;
+  line-height: 100px;
+  font-size: 38px;
+  color: white;
+}
+
+.main {
+  padding: 20px 0px;
+}
+
+footer.footer {
+  background-color: #ffe600;
+}
+
+.social-icons {
+  display: inline;
+}
+
+.navbar-item {
+  padding: 0.3rem 0;
+}
+.navbar-item a {
+  color: black;
+  font-family: "Campione Neue Sans Bold";
+  font-weight: bold;
+}
+
+.underline a {
+  color: black;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 0.15em;
+
+  padding: 5px 20px;
+  position: relative;
+}
+.underline a:after {
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: black;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+.underline a:hover:after {
+  width: 100%;
+  left: 0;
+}
+
+.under {
+  text-decoration: underline;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.coaches {
+  padding: 20px 0px;
+}
+
+.coach-img {
+  width: 300px;
+  height: auto;
+}
+
+.player-img {
+  width: 250px;
+  height: auto;
+}
+
+
+#players a, h2 a, #articles a, .high {
+  box-shadow: inset 0 0 0 0 black;
+  color: black;
+  padding: 0 .25rem;
+  margin: 0 -.25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+#players a:hover, h2 a:hover, #articles a:hover, .high:hover {
+  color: black;
+  box-shadow: inset 3000px 0 0 0 #ffe600;;
+}
+#players a, h2 a, #articles a, .high {
+  color: #black;
+  line-height: 1.5;
+  text-decoration: underline;
+}
+
+.hero-img {
+  width: 600px;
+  height: auto;
+  max-height: 300px;
+}
+
+ul {
+  list-style-type: square;
+  margin: 10px 0;
+  padding-left: 3rem;
+}
+
+li {
+  line-height: 1.5;
+  padding-left: 1rem;
+}
+
+article p {
+  margin: 1.5rem 0;
+}
+
+.pages {
+  text-align: center;
+}
+.pages ul {
+  list-style-type: none;
+}
+.pages ul li {
+  display: inline;
+}
+.pages ul li a {
+  color: black;
+}
