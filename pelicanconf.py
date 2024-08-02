@@ -31,7 +31,7 @@ SOCIAL = (
     ("Another social link", "#"),
 )
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 12
 
 # PAGE_URL = '{slug}'
 # PAGE_SAVE_AS = '{slug}.html'
