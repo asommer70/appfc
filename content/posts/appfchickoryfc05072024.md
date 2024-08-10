@@ -2,7 +2,7 @@ title: Appalachian FC vs Hickory FC 05-07-2024
 date: 05-07-2024
 category: posts
 slug: appfc-vs-hickoryfc-05-07-2024
-hero: /appfc/images/AppFC_vs_HickoryFC_05-07-2024_Title.jpg
+hero: /images/AppFC_vs_HickoryFC_05-07-2024_Title.jpg
 
 ## The Build Up
 

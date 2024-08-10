@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Campione Neue Sans Bold";
-  src: url(/appfc/theme/fonts/Campione_Neue_Sans_Bold.ttf) format("truetype");
+  src: url(/theme/fonts/Campione_Neue_Sans_Bold.ttf) format("truetype");
 }
 
 h2 {
@@ -152,4 +152,16 @@ article p {
 }
 .pages ul li a {
   color: black;
+}
+
+@media screen and (max-width: 1000px) {
+  main {
+    margin: auto 8px;
+  }
+
+  div.cell {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }

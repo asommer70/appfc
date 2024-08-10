@@ -6,10 +6,10 @@
     <div id="articles" class="grid is-gap-4">
     {% for article in articles_page.object_list %}
         <article class="cell is-col-span-2">
-            <header> <h2><a href="/appfc/{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
+            <header> <h2><a href="/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
 
             <section>
-              <a href="/appfc/{{ SITEURL }}/{{ article.url }}"><img src="{{article.hero}}" class="hero-img" /></a>
+              <a href="/{{ article.url }}"><img src="{{article.hero}}" class="hero-img" /></a>
               {{ article.summary }}
             </section>
 
