@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block subtitle %}<h2>{{ page.title }}</h2>{% endblock %}
+
+{% block content %}
+
+{% if page.calendar %}
+<dl>
+    {% for vevent in events[page.slug] %}
+        <dt>{{ vevent.summary }} <br/><br/></dt>
+        <dd>{{ vevent.description|replace('\n\n', '<br>') }}</dd>
+        <dd>{{ vevent.dtstart }}</dd>
+        <dd>{{ vevent.dtend }}</dd>
+        <dd class="footer"><a href="{{ vevent.url }}">See more</a></dd>
+    {% endfor %}
+</dl>
+{% endif %}
+
+
+    <div id="calendars" class="grid is-gap-4">
+    </div>
+
+{% endblock content %}

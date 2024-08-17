@@ -1,0 +1,171 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SIDEARM Sports//NONSGML SIDEARM//EN
+X-WR-CALNAME:Men's Soccer - gocuhawks.com
+X-PUBLISHED-TTL:PT120M
+BEGIN:VEVENT
+UID:vcal_11199-gocuhawks.com
+DTSTAMP:20240817T231709Z
+DTSTART:20240905T190000Z
+DTEND:20240905T210000Z
+LOCATION:Banner Elk\, N.C.
+SUMMARY:Men's Soccer at Lees-McRae
+DESCRIPTION:Men's Soccer at Lees-McRae\n
+URL:https://gocuhawks.com/calendar.aspx?game_id=11199&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_11200-gocuhawks.com
+DTSTAMP:20240817T231709Z
+DTSTART:20240910T200000Z
+DTEND:20240910T220000Z
+LOCATION:Murfreesboro\, N.C.
+SUMMARY:Men's Soccer vs Virginia State
+DESCRIPTION:Men's Soccer vs Virginia State\nStreaming Video: http://conferencecarolinasdn.com/cuhawks/\n
+URL:https://gocuhawks.com/calendar.aspx?game_id=11200&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_11201-gocuhawks.com
+DTSTAMP:20240817T231709Z
+DTSTART:20240914T193000Z
+DTEND:20240914T213000Z
+LOCATION:Spartanburg\, S.C.
+SUMMARY:Men's Soccer at Converse
+DESCRIPTION:Men's Soccer at Converse\n
+URL:https://gocuhawks.com/calendar.aspx?game_id=11201&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_11202-gocuhawks.com
+DTSTAMP:20240817T231709Z
+DTSTART:20240918T190000Z
+DTEND:20240918T210000Z
+LOCATION:Murfreesboro\, N.C.
+SUMMARY:Men's Soccer vs Coker
+DESCRIPTION:Men's Soccer vs Coker\nStreaming Video: http://conferencecarolinasdn.com/cuhawks/\n
+URL:https://gocuhawks.com/calendar.aspx?game_id=11202&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_11203-gocuhawks.com
+DTSTAMP:20240817T231709Z
+DTSTART:20240921T200000Z
+DTEND:20240921T220000Z
+LOCATION:Murfreesboro\, N.C.
+SUMMARY:Men's Soccer vs Francis Marion
+DESCRIPTION:Men's Soccer vs Francis Marion\nStreaming Video: http://conferencecarolinasdn.com/cuhawks/\n
+URL:https://gocuhawks.com/calendar.aspx?game_id=11203&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_11204-gocuhawks.com
+DTSTAMP:20240817T231709Z
+DTSTART:20240925T230000Z
+DTEND:20240926T010000Z
+LOCATION:Mount Olive\, N.C.
+SUMMARY:Men's Soccer at Mount Olive
+DESCRIPTION:Men's Soccer at Mount Olive\n
+URL:https://gocuhawks.com/calendar.aspx?game_id=11204&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_11205-gocuhawks.com
+DTSTAMP:20240817T231709Z
+DTSTART:20240928T200000Z
+DTEND:20240928T220000Z
+LOCATION:Murfreesboro\, N.C.
+SUMMARY:Men's Soccer vs Belmont Abbey
+DESCRIPTION:Men's Soccer vs Belmont Abbey\nStreaming Video: http://conferencecarolinasdn.com/cuhawks/\n
+URL:https://gocuhawks.com/calendar.aspx?game_id=11205&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_11206-gocuhawks.com
+DTSTAMP:20240817T231709Z
+DTSTART:20241005T190000Z
+DTEND:20241005T210000Z
+LOCATION:Murfreesboro\, N.C.
+SUMMARY:Men's Soccer vs Emmanuel
+DESCRIPTION:Men's Soccer vs Emmanuel\nStreaming Video: http://conferencecarolinasdn.com/cuhawks/\n
+URL:https://gocuhawks.com/calendar.aspx?game_id=11206&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_11207-gocuhawks.com
+DTSTAMP:20240817T231709Z
+DTSTART:20241009T190000Z
+DTEND:20241009T210000Z
+LOCATION:Hickory\, N.C.
+SUMMARY:Men's Soccer at Lenoir-Rhyne
+DESCRIPTION:Men's Soccer at Lenoir-Rhyne\n
+URL:https://gocuhawks.com/calendar.aspx?game_id=11207&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_11208-gocuhawks.com
+DTSTAMP:20240817T231709Z
+DTSTART:20241012T200000Z
+DTEND:20241012T220000Z
+LOCATION:Murfreesboro\, N.C.
+SUMMARY:Men's Soccer vs Barton
+DESCRIPTION:Men's Soccer vs Barton\nStreaming Video: http://conferencecarolinasdn.com/cuhawks/\n
+URL:https://gocuhawks.com/calendar.aspx?game_id=11208&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_11209-gocuhawks.com
+DTSTAMP:20240817T231709Z
+DTSTART:20241016T230000Z
+DTEND:20241017T010000Z
+LOCATION:Florence\, S.C.
+SUMMARY:Men's Soccer at Francis Marion
+DESCRIPTION:Men's Soccer at Francis Marion\n
+URL:https://gocuhawks.com/calendar.aspx?game_id=11209&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_11210-gocuhawks.com
+DTSTAMP:20240817T231709Z
+DTSTART:20241019T193000Z
+DTEND:20241019T213000Z
+LOCATION:Central\, S.C.
+SUMMARY:Men's Soccer at Southern Wesleyan
+DESCRIPTION:Men's Soccer at Southern Wesleyan\n
+URL:https://gocuhawks.com/calendar.aspx?game_id=11210&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_11211-gocuhawks.com
+DTSTAMP:20240817T231709Z
+DTSTART:20241022T190000Z
+DTEND:20241022T210000Z
+LOCATION:Murfreesboro\, N.C.
+SUMMARY:Men's Soccer vs Mount Olive
+DESCRIPTION:Men's Soccer vs Mount Olive\nStreaming Video: http://conferencecarolinasdn.com/cuhawks/\n
+URL:https://gocuhawks.com/calendar.aspx?game_id=11211&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_11212-gocuhawks.com
+DTSTAMP:20240817T231709Z
+DTSTART:20241026T173000Z
+DTEND:20241026T193000Z
+LOCATION:Murfreesboro\, N.C.
+SUMMARY:Men's Soccer vs King
+DESCRIPTION:Men's Soccer vs King\nStreaming Video: http://conferencecarolinasdn.com/cuhawks/\n
+URL:https://gocuhawks.com/calendar.aspx?game_id=11212&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_11213-gocuhawks.com
+DTSTAMP:20240817T231709Z
+DTSTART:20241102T233000Z
+DTEND:20241103T013000Z
+LOCATION:Wilson\, N.C.
+SUMMARY:Men's Soccer at Barton
+DESCRIPTION:Men's Soccer at Barton\n
+URL:https://gocuhawks.com/calendar.aspx?game_id=11213&amp;sport_id=4
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR
