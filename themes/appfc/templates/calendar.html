@@ -4,6 +4,34 @@
 {% block content %}
 
 {% if page.calendar %}
+<div class="fixed-grid has-3-cols">
+  <div class="grid">
+  {% for vevent in events[page.slug] %}
+
+  <div class="card cell">
+    <header class="card-header">
+      <p class="card-header-title">{{ vevent.summary  }}</p>
+      <button class="card-header-icon" aria-label="more options">
+        <span class="icon">
+          <i class="fas fa-angle-down" aria-hidden="true"></i>
+        </span>
+      </button>
+    </header>
+    <div class="card-content">
+      <div class="content">
+        {{ vevent.description|replace('\n\n', '<br/>') }}
+        <br />
+        {{ vevent.dtstart.strftime('%m-%d-%Y %I:%M %p') }}
+      </div>
+    </div>
+    <footer class="card-footer">
+      <a href="{{ vevent.url }}" class="card-footer-item" target="_blank">Event</a>
+    </footer>
+  </div>
+
+  {% endfor %}
+  </div>
+</div>
 <dl>
     {% for vevent in events[page.slug] %}
         <dt>{{ vevent.summary }} <br/><br/></dt>
