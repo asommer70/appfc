@@ -13,7 +13,8 @@ TIMEZONE = 'US/Eastern'
 
 DEFAULT_LANG = 'en'
 
-PLUGIN_PATHS = ['../pelican-plugins']
+# PLUGIN_PATHS = ['../pelican-plugins']
+PLUGIN_PATHS = ['../ical']
 PLUGINS = ['ical']
 
 # Feed generation is usually not desired when developing

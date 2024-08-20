@@ -3,7 +3,7 @@
 
 {% block content %}
 
-{% if page.calendar %}
+{% if page.cal_dir %}
 <div class="fixed-grid has-3-cols">
   <div class="grid">
   {% for vevent in events[page.slug] %}
@@ -22,6 +22,8 @@
         {{ vevent.description|replace('\n\n', '<br/>') }}
         <br />
         {{ vevent.dtstart.strftime('%m-%d-%Y %I:%M %p') }}
+        <br />
+        <br />
       </div>
     </div>
     <footer class="card-footer">
@@ -32,15 +34,6 @@
   {% endfor %}
   </div>
 </div>
-<dl>
-    {% for vevent in events[page.slug] %}
-        <dt>{{ vevent.summary }} <br/><br/></dt>
-        <dd>{{ vevent.description|replace('\n\n', '<br>') }}</dd>
-        <dd>{{ vevent.dtstart }}</dd>
-        <dd>{{ vevent.dtend }}</dd>
-        <dd class="footer"><a href="{{ vevent.url }}">See more</a></dd>
-    {% endfor %}
-</dl>
 {% endif %}
 
 

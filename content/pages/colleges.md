@@ -1,8 +1,8 @@
 title: Colleges
 date: 08-17-2024
-calendar: /home/adam/work/appfc/appfc-pelican/content/data/colleges.ics
 template: calendar
 slug: colleges
+cal_dir: content/data
 
 # Combined College Schedule
 
