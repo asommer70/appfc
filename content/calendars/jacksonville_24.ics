@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SIDEARM Sports//NONSGML SIDEARM//EN
+X-WR-CALNAME:Men's Soccer - judolphins.com
+X-PUBLISHED-TTL:PT120M
+BEGIN:VEVENT
+UID:vcal_6700-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20240822T210000Z
+DTEND:20240822T230000Z
+LOCATION:Louisville\, KY
+SUMMARY:[L] Jacksonville University Men's Soccer at Louisville
+DESCRIPTION:[L] Jacksonville University Men's Soccer at Louisville\nL 0-2\nStreaming Video: https://www.espn.com/watch/player?id=6eee0524-be6d-4416-aa93-7d138302a2b6\n
+URL:https://judolphins.com/calendar.aspx?game_id=6700&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_6701-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20240825T190000Z
+DTEND:20240825T210000Z
+LOCATION:Dayton\, OH
+SUMMARY:[W] Jacksonville University Men's Soccer at Dayton
+DESCRIPTION:[W] Jacksonville University Men's Soccer at Dayton\nW 3-0\nStreaming Video: https://www.espn.com/watch/catalog/85a52883-6d07-38c7-8dd0-263cba0c24bf\n
+URL:https://judolphins.com/calendar.aspx?game_id=6701&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_6702-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20240829T210000Z
+DTEND:20240829T230000Z
+LOCATION:Jacksonville\, Fla., Southern Oak Stadium
+SUMMARY:Jacksonville University Men's Soccer vs Mercer
+DESCRIPTION:Jacksonville University Men's Soccer vs Mercer\nStreaming Video: https://www.espn.com/espnplus/player/_/id/533fdca6-334b-416e-b74b-7faeb13e27da/country/us/redirected/true\n
+URL:https://judolphins.com/calendar.aspx?game_id=6702&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_6703-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20240901T220000Z
+DTEND:20240902T000000Z
+LOCATION:Jacksonville\, Fla., Southern Oak Stadium
+SUMMARY:Jacksonville University Men's Soccer vs Winthrop 
+DESCRIPTION:Jacksonville University Men's Soccer vs Winthrop \n
+URL:https://judolphins.com/calendar.aspx?game_id=6703&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_6704-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20240904T220000Z
+DTEND:20240905T000000Z
+LOCATION:Jacksonville\, Fla., Southern Oak Stadium
+SUMMARY:Jacksonville University Men's Soccer vs South Carolina
+DESCRIPTION:Jacksonville University Men's Soccer vs South Carolina\n
+URL:https://judolphins.com/calendar.aspx?game_id=6704&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_6705-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20240907T230000Z
+DTEND:20240908T010000Z
+LOCATION:Charleston\, S.C.
+SUMMARY:Jacksonville University Men's Soccer at College of Charleston
+DESCRIPTION:Jacksonville University Men's Soccer at College of Charleston\n
+URL:https://judolphins.com/calendar.aspx?game_id=6705&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_6706-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20240912T230000Z
+DTEND:20240913T010000Z
+LOCATION:Edinburg\, TX
+SUMMARY:Jacksonville University Men's Soccer at UTRGV
+DESCRIPTION:Jacksonville University Men's Soccer at UTRGV\n
+URL:https://judolphins.com/calendar.aspx?game_id=6706&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_6708-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20240921T220000Z
+DTEND:20240922T000000Z
+LOCATION:Fort Myers\, Florida
+SUMMARY:Jacksonville University Men's Soccer at FGCU
+DESCRIPTION:Jacksonville University Men's Soccer at FGCU\n
+URL:https://judolphins.com/calendar.aspx?game_id=6708&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_6707-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20240924T230000Z
+DTEND:20240925T010000Z
+LOCATION:Jacksonville\, Fla., Southern Oak Stadium
+SUMMARY:Jacksonville University Men's Soccer vs FAU
+DESCRIPTION:Jacksonville University Men's Soccer vs FAU\n
+URL:https://judolphins.com/calendar.aspx?game_id=6707&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_6709-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20240928T230000Z
+DTEND:20240929T010000Z
+LOCATION:Jacksonville\, FL
+SUMMARY:Jacksonville University Men's Soccer at North Florida
+DESCRIPTION:Jacksonville University Men's Soccer at North Florida\n
+URL:https://judolphins.com/calendar.aspx?game_id=6709&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_6710-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20241001T230000Z
+DTEND:20241002T010000Z
+LOCATION:Jacksonville\, Fla., Southern Oak Stadium
+SUMMARY:Jacksonville University Men's Soccer vs Georgia Southern
+DESCRIPTION:Jacksonville University Men's Soccer vs Georgia Southern\n
+URL:https://judolphins.com/calendar.aspx?game_id=6710&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_6711-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20241005T230000Z
+DTEND:20241006T010000Z
+LOCATION:Jacksonville\, Fla., Southern Oak Stadium
+SUMMARY:Jacksonville University Men's Soccer vs Stetson
+DESCRIPTION:Jacksonville University Men's Soccer vs Stetson\n
+URL:https://judolphins.com/calendar.aspx?game_id=6711&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_6712-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20241011T220000Z
+DTEND:20241012T000000Z
+LOCATION:Conway\, AR
+SUMMARY:Jacksonville University Men's Soccer at Central Arkansas
+DESCRIPTION:Jacksonville University Men's Soccer at Central Arkansas\n
+URL:https://judolphins.com/calendar.aspx?game_id=6712&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_6713-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20241019T220000Z
+DTEND:20241020T000000Z
+LOCATION:Jacksonville\, Fla., Southern Oak Stadium
+SUMMARY:Jacksonville University Men's Soccer vs Queens
+DESCRIPTION:Jacksonville University Men's Soccer vs Queens\n
+URL:https://judolphins.com/calendar.aspx?game_id=6713&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_6714-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20241026T230000Z
+DTEND:20241027T010000Z
+LOCATION:Louisville\, KY
+SUMMARY:Jacksonville University Men's Soccer at Bellarmine
+DESCRIPTION:Jacksonville University Men's Soccer at Bellarmine\n
+URL:https://judolphins.com/calendar.aspx?game_id=6714&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_6715-judolphins.com
+DTSTAMP:20240829T200616Z
+DTSTART:20241102T230000Z
+DTEND:20241103T010000Z
+LOCATION:Jacksonville\, Fla., Southern Oak Stadium
+SUMMARY:Jacksonville University Men's Soccer vs Lipscomb
+DESCRIPTION:Jacksonville University Men's Soccer vs Lipscomb\n
+URL:https://judolphins.com/calendar.aspx?game_id=6715&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR

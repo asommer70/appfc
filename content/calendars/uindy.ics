@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SIDEARM Sports//NONSGML SIDEARM//EN
+X-WR-CALNAME:Men's Soccer - athletics.uindy.edu
+X-PUBLISHED-TTL:PT120M
+BEGIN:VEVENT
+UID:vcal_13105-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20240908T170000Z
+DTEND:20240908T190000Z
+LOCATION:Harrogate\, TN
+SUMMARY:UIndy Men's Soccer at Lincoln Memorial
+DESCRIPTION:UIndy Men's Soccer at Lincoln Memorial\nStreaming Video: https://www.flofc.com/signup?redirect=/live/119210\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13105&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13106-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20240912T230000Z
+DTEND:20240913T010000Z
+LOCATION:Indianapolis\, IN, Key Stadium/Kiesel Field
+SUMMARY:UIndy Men's Soccer vs Lake Erie
+DESCRIPTION:UIndy Men's Soccer vs Lake Erie\nStreaming Video: https://glvcsn.com/uindy/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13106&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13095-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20240915T193000Z
+DTEND:20240915T213000Z
+LOCATION:Kirksville\, MO
+SUMMARY:UIndy Men's Soccer at Truman
+DESCRIPTION:UIndy Men's Soccer at Truman\nStreaming Video: https://glvcsn.com/truman/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13095&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13096-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20240921T003000Z
+DTEND:20240921T023000Z
+LOCATION:Quincy\, IL
+SUMMARY:UIndy Men's Soccer at Quincy
+DESCRIPTION:UIndy Men's Soccer at Quincy\nStreaming Video: https://glvcsn.com/quincy/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13096&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13097-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20240922T193000Z
+DTEND:20240922T213000Z
+LOCATION:Fayette\, IA
+SUMMARY:UIndy Men's Soccer at Upper Iowa
+DESCRIPTION:UIndy Men's Soccer at Upper Iowa\nStreaming Video: https://glvcsn.com/uiu/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13097&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13098-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20240927T233000Z
+DTEND:20240928T013000Z
+LOCATION:Indianapolis\, IN, Key Stadium/Kiesel Field
+SUMMARY:UIndy Men's Soccer vs Rockhurst
+DESCRIPTION:UIndy Men's Soccer vs Rockhurst\nStreaming Video: https://glvcsn.com/uindy/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13098&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13099-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20240929T183000Z
+DTEND:20240929T203000Z
+LOCATION:Indianapolis\, IN, Key Stadium/Kiesel Field
+SUMMARY:UIndy Men's Soccer vs William Jewell
+DESCRIPTION:UIndy Men's Soccer vs William Jewell\nStreaming Video: https://glvcsn.com/uindy/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13099&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13100-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20241005T003000Z
+DTEND:20241005T023000Z
+LOCATION:Springfield\, MO
+SUMMARY:UIndy Men's Soccer at Drury
+DESCRIPTION:UIndy Men's Soccer at Drury\nStreaming Video: https://glvcsn.com/drury/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13100&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13101-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20241006T193000Z
+DTEND:20241006T213000Z
+LOCATION:Bolivar\, MO
+SUMMARY:UIndy Men's Soccer at Southwest Baptist
+DESCRIPTION:UIndy Men's Soccer at Southwest Baptist\nStreaming Video: https://glvcsn.com/sbu/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13101&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13102-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20241011T233000Z
+DTEND:20241012T013000Z
+LOCATION:Indianapolis\, IN, Key Stadium/Kiesel Field
+SUMMARY:UIndy Men's Soccer vs Lincoln
+DESCRIPTION:UIndy Men's Soccer vs Lincoln\nStreaming Video: https://glvcsn.com/uindy/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13102&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13103-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20241013T183000Z
+DTEND:20241013T203000Z
+LOCATION:Indianapolis\, IN, Key Stadium/Kiesel Field
+SUMMARY:UIndy Men's Soccer vs Missouri S&T
+DESCRIPTION:UIndy Men's Soccer vs Missouri S&T\nStreaming Video: https://glvcsn.com/uindy/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13103&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13104-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20241018T173000Z
+DTEND:20241018T193000Z
+LOCATION:St. Louis\, MO
+SUMMARY:UIndy Men's Soccer at Maryville
+DESCRIPTION:UIndy Men's Soccer at Maryville\nStreaming Video: https://glvcsn.com/maryville/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13104&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13107-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20241020T193000Z
+DTEND:20241020T213000Z
+LOCATION:St. Louis\, MO
+SUMMARY:UIndy Men's Soccer at Missouri-St. Louis
+DESCRIPTION:UIndy Men's Soccer at Missouri-St. Louis\nStreaming Video: https://glvcsn.com/uis/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13107&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13108-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20241025T233000Z
+DTEND:20241026T013000Z
+LOCATION:Indianapolis\, IN, Key Stadium/Kiesel Field
+SUMMARY:UIndy Men's Soccer vs Illinois Springfield
+DESCRIPTION:UIndy Men's Soccer vs Illinois Springfield\nStreaming Video: https://glvcsn.com/uindy/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13108&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13109-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20241027T233000Z
+DTEND:20241028T013000Z
+LOCATION:Indianapolis\, IN, Key Stadium/Kiesel Field
+SUMMARY:UIndy Men's Soccer vs McKendree
+DESCRIPTION:UIndy Men's Soccer vs McKendree\nStreaming Video: https://glvcsn.com/uindy/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13109&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13110-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20241101T233000Z
+DTEND:20241102T013000Z
+LOCATION:Indianapolis\, IN, Key Stadium/Kiesel Field
+SUMMARY:UIndy Men's Soccer vs Lewis
+DESCRIPTION:UIndy Men's Soccer vs Lewis\nStreaming Video: https://glvcsn.com/uindy/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13110&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13133-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART;VALUE=DATE:20241110
+DTEND;VALUE=DATE:20241111
+LOCATION:campus site
+SUMMARY:UIndy Men's Soccer vs GLVC Quarterfinal
+DESCRIPTION:UIndy Men's Soccer vs GLVC Quarterfinal\nStreaming Video: https://glvcsn.com/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13133&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13134-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241116
+LOCATION:St. Louis\, MO
+SUMMARY:UIndy Men's Soccer vs GLVC Semifinal
+DESCRIPTION:UIndy Men's Soccer vs GLVC Semifinal\nStreaming Video: https://glvcsn.com/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13134&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13135-athletics.uindy.edu
+DTSTAMP:20240823T123142Z
+DTSTART:20241117T180000Z
+DTEND:20241117T200000Z
+LOCATION:St. Louis\, MO
+SUMMARY:UIndy Men's Soccer vs GLVC Final
+DESCRIPTION:UIndy Men's Soccer vs GLVC Final\nStreaming Video: https://glvcsn.com/\n
+URL:https://athletics.uindy.edu/calendar.aspx?game_id=13135&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR

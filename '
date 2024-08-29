@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block subtitle %}<h2>College Schedules</h2>{% endblock %}
+{% block subtitle %}<h2>{{ page.title }}</h2>{% endblock %}
 
 {% block content %}
 
@@ -18,8 +18,8 @@
   <div class="card cell">
     <header class="card-header">
       <p class="card-header-title is-centered">{{ vevent.summary }}</p>
-      <button class="card-header-icon" aria-label="more options" style="{% if 'judolphins' in vevent.img_url %}background-color: rgb(0, 74, 65);{% endif %}">
-        <a href="{{ vevent.url }}" target="_blank" class="vevent-img"><img src="{{ vevent.img_url }}" /></a>
+      <button class="card-header-icon" aria-label="more options">
+        <a href="{{ vevent.url }}" target="_blank" class="vevent-img card-footer-item"><img src="{{ vevent.img_url }}" /></a>
       </button>
     </header>
     <div class="card-content">
@@ -32,11 +32,9 @@
 
         <div class="event-players">
         {% for player in DATA_PLAYERS_24 %}
-          <div class="event-player">
             {% if vevent.home in player.college_url %}
             <a href="/pages/players.html#{{ player.full_name|replace(' ', '_') }}"><img src="{{ player.img }}" class="event-player-img" title="{{ player.full_name }}" /></a>
             {% endif %}
-          </div>
         {% endfor %}
         </div>
       </div>

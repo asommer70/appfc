@@ -33,7 +33,7 @@
 <div id="players" class="grid is-gap-4">
 
   {% for player in DATA_PLAYERS_24 %}
-    <div class="cell is-col-span-2">
+    <div class="cell is-col-span-2" id="{{ player.full_name|replace(' ', '_') }}">
       <img class="player-img" src="{{ player.img }}" />
       <h3>{{ player.full_name }}</h3> 
 

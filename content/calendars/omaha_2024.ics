@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SIDEARM Sports//NONSGML SIDEARM//EN
+X-WR-CALNAME:Men's Soccer - omavs.com
+X-PUBLISHED-TTL:PT120M
+BEGIN:VEVENT
+UID:vcal_18720-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20240810T170000Z
+DTEND:20240810T190000Z
+LOCATION:Omaha\, Neb., CANIGLIA FIELD
+SUMMARY:[L] University of Nebraska Omaha Men's Soccer vs Saint Louis (Exhibition)
+DESCRIPTION:[L] University of Nebraska Omaha Men's Soccer vs Saint Louis (Exhibition)\nL 0-1\nTickets: https://am.ticketmaster.com/uno/buy/ism/MjRNU09DMDE=\n
+URL:https://omavs.com/calendar.aspx?game_id=18720&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18721-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20240817T000000Z
+DTEND:20240817T020000Z
+LOCATION:Omaha\, Neb., CANIGLIA FIELD
+SUMMARY:[W] University of Nebraska Omaha Men's Soccer vs Iowa Western (Exhibition)
+DESCRIPTION:[W] University of Nebraska Omaha Men's Soccer vs Iowa Western (Exhibition)\nW 2-1\nTickets: https://am.ticketmaster.com/uno/buy/ism/MjRNU09DMDI=\n
+URL:https://omavs.com/calendar.aspx?game_id=18721&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18722-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20240822T230000Z
+DTEND:20240823T010000Z
+LOCATION:Rochester\, MI
+SUMMARY:[W] University of Nebraska Omaha Men's Soccer at Oakland University
+DESCRIPTION:[W] University of Nebraska Omaha Men's Soccer at Oakland University\nW 2-1\nStreaming Video: https://goldengrizzlies.com/watch\n
+URL:https://omavs.com/calendar.aspx?game_id=18722&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18723-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20240826T000000Z
+DTEND:20240826T020000Z
+LOCATION:Omaha\, Neb., CANIGLIA FIELD
+SUMMARY:[W] University of Nebraska Omaha Men's Soccer vs Florida Atlantic 
+DESCRIPTION:[W] University of Nebraska Omaha Men's Soccer vs Florida Atlantic \nW 3-2\nTV: Summit League Network\nStreaming Video: https://www.midcosportsplus.com/details/LIVE_PROGRAM/item/6360953950112/florida-atlantic-vs-omaha\nTickets: https://am.ticketmaster.com/uno/buy/ism/MjRNU09DMDM=\n
+URL:https://omavs.com/calendar.aspx?game_id=18723&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18724-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20240829T230000Z
+DTEND:20240830T010000Z
+LOCATION:Omaha\, Neb., CANIGLIA FIELD
+SUMMARY:University of Nebraska Omaha Men's Soccer vs San Francisco
+DESCRIPTION:University of Nebraska Omaha Men's Soccer vs San Francisco\nTV: Summit League Network\nStreaming Video: https://www.midcosportsplus.com/details/LIVE_PROGRAM/item/6361148273112/san-francisco-vs-omaha\nTickets: https://am.ticketmaster.com/uno/buy/ism/MjRNU09DMDQ=\n
+URL:https://omavs.com/calendar.aspx?game_id=18724&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18725-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20240901T180000Z
+DTEND:20240901T200000Z
+LOCATION:Omaha\, Neb., CANIGLIA FIELD
+SUMMARY:University of Nebraska Omaha Men's Soccer vs Loyola University Chicago
+DESCRIPTION:University of Nebraska Omaha Men's Soccer vs Loyola University Chicago\nTV: Summit League Network\nStreaming Video: https://www.midcosportsplus.com/details/LIVE_PROGRAM/item/6361148092112/loyola-chicago-vs-omaha\nTickets: https://am.ticketmaster.com/uno/buy/ism/MjRNU09DMDU=\n
+URL:https://omavs.com/calendar.aspx?game_id=18725&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18726-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20240907T010000Z
+DTEND:20240907T030000Z
+LOCATION:Phoenix\, AZ
+SUMMARY:University of Nebraska Omaha Men's Soccer at Grand Canyon University
+DESCRIPTION:University of Nebraska Omaha Men's Soccer at Grand Canyon University\nStreaming Video: https://gculopes.com/sports/mens-soccer/schedule\n
+URL:https://omavs.com/calendar.aspx?game_id=18726&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18727-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20240910T000000Z
+DTEND:20240910T020000Z
+LOCATION:Omaha\, Neb., CANIGLIA FIELD
+SUMMARY:University of Nebraska Omaha Men's Soccer vs Houston Christian
+DESCRIPTION:University of Nebraska Omaha Men's Soccer vs Houston Christian\nTV: Summit League Network\nStreaming Video: https://www.midcosportsplus.com/\nTickets: https://am.ticketmaster.com/uno/buy/ism/MjRNU09DMDY=\n
+URL:https://omavs.com/calendar.aspx?game_id=18727&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18728-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20240918T000000Z
+DTEND:20240918T020000Z
+LOCATION:Omaha\, Neb., CANIGLIA FIELD
+SUMMARY:University of Nebraska Omaha Men's Soccer vs Drake
+DESCRIPTION:University of Nebraska Omaha Men's Soccer vs Drake\nTV: Summit League Network\nStreaming Video: https://www.midcosportsplus.com/\nTickets: https://am.ticketmaster.com/uno/buy/ism/MjRNU09DMDc=\n
+URL:https://omavs.com/calendar.aspx?game_id=18728&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18729-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20240922T170000Z
+DTEND:20240922T190000Z
+LOCATION:Edwardsville\, IL
+SUMMARY:University of Nebraska Omaha Men's Soccer at SIUE
+DESCRIPTION:University of Nebraska Omaha Men's Soccer at SIUE\n
+URL:https://omavs.com/calendar.aspx?game_id=18729&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18731-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20240929T000000Z
+DTEND:20240929T020000Z
+LOCATION:Tulsa\, OK
+SUMMARY:University of Nebraska Omaha Men's Soccer at Oral Roberts
+DESCRIPTION:University of Nebraska Omaha Men's Soccer at Oral Roberts\nStreaming Video: https://www.midcosports.com/\n
+URL:https://omavs.com/calendar.aspx?game_id=18731&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18732-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20241003T000000Z
+DTEND:20241003T020000Z
+LOCATION:Omaha\, Neb., CANIGLIA FIELD
+SUMMARY:University of Nebraska Omaha Men's Soccer vs St. Thomas
+DESCRIPTION:University of Nebraska Omaha Men's Soccer vs St. Thomas\nTV: Summit League Network\nStreaming Video: https://www.midcosportsplus.com/\nTickets: https://am.ticketmaster.com/uno/buy/ism/MjRNU09DMDg=\n
+URL:https://omavs.com/calendar.aspx?game_id=18732&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18733-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20241005T210000Z
+DTEND:20241005T230000Z
+LOCATION:Omaha\, Neb., CANIGLIA FIELD
+SUMMARY:University of Nebraska Omaha Men's Soccer vs Kansas City
+DESCRIPTION:University of Nebraska Omaha Men's Soccer vs Kansas City\nTV: Summit League Network\nStreaming Video: https://www.midcosportsplus.com/\nTickets: https://am.ticketmaster.com/uno/buy/ism/MjRNU09DMDk=\n
+URL:https://omavs.com/calendar.aspx?game_id=18733&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18734-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20241010T000000Z
+DTEND:20241010T020000Z
+LOCATION:Omaha\, Neb., CANIGLIA FIELD
+SUMMARY:University of Nebraska Omaha Men's Soccer vs Creighton
+DESCRIPTION:University of Nebraska Omaha Men's Soccer vs Creighton\nTV: Summit League Network\nStreaming Video: https://www.midcosportsplus.com/\nTickets: https://am.ticketmaster.com/uno/buy/ism/MjRNU09DMTA=\n
+URL:https://omavs.com/calendar.aspx?game_id=18734&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18736-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20241017T000000Z
+DTEND:20241017T020000Z
+LOCATION:Denver\, CO
+SUMMARY:University of Nebraska Omaha Men's Soccer at Denver
+DESCRIPTION:University of Nebraska Omaha Men's Soccer at Denver\nStreaming Video: https://www.midcosportsplus.com/page/01H57TR0BWZFVJNDSXJJGFBB87\n
+URL:https://omavs.com/calendar.aspx?game_id=18736&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18737-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20241019T210000Z
+DTEND:20241019T230000Z
+LOCATION:Omaha\, Neb., CANIGLIA FIELD
+SUMMARY:University of Nebraska Omaha Men's Soccer vs Oral Roberts
+DESCRIPTION:University of Nebraska Omaha Men's Soccer vs Oral Roberts\nTV: Summit League Network\nStreaming Video: https://www.midcosportsplus.com/\nTickets: https://am.ticketmaster.com/uno/buy/ism/MjRNU09DMTE=\n
+URL:https://omavs.com/calendar.aspx?game_id=18737&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18738-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20241027T000000Z
+DTEND:20241027T020000Z
+LOCATION:Kansas City\, MO
+SUMMARY:University of Nebraska Omaha Men's Soccer at Kansas City
+DESCRIPTION:University of Nebraska Omaha Men's Soccer at Kansas City\nStreaming Video: https://www.midcosportsplus.com/page/01H5AT1ZG36NS2PYJRMQGMREK5\n
+URL:https://omavs.com/calendar.aspx?game_id=18738&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18739-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20241102T180000Z
+DTEND:20241102T200000Z
+LOCATION:St. Paul\, MN
+SUMMARY:University of Nebraska Omaha Men's Soccer at St. Thomas
+DESCRIPTION:University of Nebraska Omaha Men's Soccer at St. Thomas\nStreaming Video: https://tommiesports.com/watch/?Archive=402&type=Live\n
+URL:https://omavs.com/calendar.aspx?game_id=18739&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_18740-omavs.com
+DTSTAMP:20240829T160754Z
+DTSTART:20241109T190000Z
+DTEND:20241109T210000Z
+LOCATION:Omaha\, Neb., CANIGLIA FIELD
+SUMMARY:University of Nebraska Omaha Men's Soccer vs Denver
+DESCRIPTION:University of Nebraska Omaha Men's Soccer vs Denver\nTV: Summit League Network\nStreaming Video: https://www.midcosportsplus.com/\nTickets: https://am.ticketmaster.com/uno/buy/ism/MjRNU09DMTI=\n
+URL:https://omavs.com/calendar.aspx?game_id=18740&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR
